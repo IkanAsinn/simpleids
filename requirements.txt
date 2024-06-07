@@ -1,0 +1,6 @@
+colorama==0.4.6
+pyshark==0.6
+python-dotenv==1.0.1
+scapy==2.5.0
+watchdog==4.0.0
+yara-python==4.5.0
